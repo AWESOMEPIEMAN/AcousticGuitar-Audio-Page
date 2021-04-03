@@ -1,0 +1,50 @@
+body{
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#heading{
+    color: rgb(199, 136, 43);
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 72px;
+    font-weight:bolder;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    border: 3px solid rgb(199, 136, 43);
+    border-radius: 40px;
+    margin-right: 350px;
+    margin-left: 350px;
+}
+#heading2{
+    color: rgb(199, 136, 43);
+    font-family: 'Shadows Into Light', cursive;
+    font-size:30px;
+    font-weight:bolder;
+    text-shadow: 2px 2px black;
+    border-bottom: 2px solid rgb(199, 136, 43);
+
+}
+
+#para{
+    color: rgb(199, 136, 43);
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+
+}
+.simple-pluck{
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.strum-pick{
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+#btn-dec{
+    background-color: rgb(199, 136, 43);
+    border: 2px solid rgb(199, 136, 43);
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bolder;
+    margin-left: 20px;
+}
